@@ -3,10 +3,14 @@
   <ProjectOutputs>
     <ProjectOutput>
 <<<<<<< HEAD
+      <FullPath>\\edustor\psimeikn\gerasimovdiu\Desktop\3 pflfybt ggj\Gerasimov_Repository_v3_3\main\Debug\main.exe</FullPath>
+=======
+<<<<<<< HEAD
       <FullPath>\\edustor\psimeikn\gerasimovdiu\Desktop\3 pflfybt ggj\Gerasimov_Repository_v3_2\main\Debug\main.exe</FullPath>
 =======
       <FullPath>\\edustor\psimeikn\gerasimovdiu\Desktop\3 pflfybt ggj\Gerasimov_Repository_v3_1\main\Debug\main.exe</FullPath>
 >>>>>>> 586a23e7a409c085b8c1a73364eed1e2c0109bf3
+>>>>>>> 075bf64bcf4e7b8a2e2c7beff730fd6cd6443404
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

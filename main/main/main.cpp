@@ -18,7 +18,7 @@ void EnterY(double &num_Y)
 }
 void ArtimicMean(double num_X, double num_Y )
 {
-
+    cout << "Srednee znachenie:" << (num_X + num_Y) / 2 << endl;
 }
 void GeometricMean(double num_X, double num_Y)
 {
@@ -28,11 +28,18 @@ int main()
 {
     int n = 0;
     double x, y;
+<<<<<<< HEAD
+    cout << "1.Enter a number X"<< endl;
+    cout << "2.Enter a number Y" << endl;
+    cout << "3.Calculate arithmetic mean" << endl;
+    cout << "4.Calculate geometric mean" << endl;
+=======
     cout << "1.Enter a number X"<<endl;
     cout << "2.Enter a number Y" << endl;
     cout << "3.Calculate arithmetic mean" << endl;
     cout << "4.Calculate geometric mean" << endl;
 <<<<<<< HEAD
+>>>>>>> 075bf64bcf4e7b8a2e2c7beff730fd6cd6443404
     cout << "Please enter number of the desired function or 0 if you want close the app:";
 =======
     cout << "Please enter number of the desired function or 0 if you want close the app:" << endl;
