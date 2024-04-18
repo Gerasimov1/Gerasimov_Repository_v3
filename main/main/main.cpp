@@ -2,15 +2,23 @@
 using namespace std;
 void EnterX(double &num_X)
 {
-    
+    do
+    {
+        cin>>num_X;
+    }
+    while(num_X<=0);
 }
 void EnterY(double &num_Y)
 {
-
+    do
+    {
+        cin>>num_Y;
+    }
+    while(num_Y<=0);
 }
 void ArtimicMean(double num_X, double num_Y )
 {
-    
+    cout<<"Srednee znachenie:"<<(num_X+num_Y)/2<<endl;
 }
 void GeometricMean(double num_X, double num_Y)
 {
