@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "main", "main\main.vcxproj", "{A80CF73D-5815-47D8-BFB6-E0DB8EE0A88D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gerasimov_Test", "Gerasimov_Test\Gerasimov_Test.vcxproj", "{BE7209DB-D63C-4A1A-82F3-E57A9200B989}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A80CF73D-5815-47D8-BFB6-E0DB8EE0A88D}.Release|x64.Build.0 = Release|x64
 		{A80CF73D-5815-47D8-BFB6-E0DB8EE0A88D}.Release|x86.ActiveCfg = Release|Win32
 		{A80CF73D-5815-47D8-BFB6-E0DB8EE0A88D}.Release|x86.Build.0 = Release|Win32
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Debug|x64.ActiveCfg = Debug|x64
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Debug|x64.Build.0 = Debug|x64
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Debug|x86.Build.0 = Debug|Win32
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Release|x64.ActiveCfg = Release|x64
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Release|x64.Build.0 = Release|x64
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Release|x86.ActiveCfg = Release|Win32
+		{BE7209DB-D63C-4A1A-82F3-E57A9200B989}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
